@@ -1,4 +1,4 @@
-# :m: Grappe Orion
+# :o: Grappe Orion
 
 | Type Server   | Hostname                     |  IP               | Specs                 | Availability |
 |---------------|------------------------------|-------------------|-----------------------|--------------|
